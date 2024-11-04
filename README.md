@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## This is a basic weather app with direct functionality to check weather for different locations accross the world. Also provides user friendly weather messages for users.
+## resources from Angelayu's repository
